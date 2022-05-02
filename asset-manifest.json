@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://goohayami.github.io/csb-il65nd/static/css/main.bbf6c2fa.chunk.css",
+    "main.js": "https://goohayami.github.io/csb-il65nd/static/js/main.7beb11c1.chunk.js",
+    "main.js.map": "https://goohayami.github.io/csb-il65nd/static/js/main.7beb11c1.chunk.js.map",
+    "runtime-main.js": "https://goohayami.github.io/csb-il65nd/static/js/runtime-main.33a85722.js",
+    "runtime-main.js.map": "https://goohayami.github.io/csb-il65nd/static/js/runtime-main.33a85722.js.map",
+    "static/js/2.f8f835a5.chunk.js": "https://goohayami.github.io/csb-il65nd/static/js/2.f8f835a5.chunk.js",
+    "static/js/2.f8f835a5.chunk.js.map": "https://goohayami.github.io/csb-il65nd/static/js/2.f8f835a5.chunk.js.map",
+    "index.html": "https://goohayami.github.io/csb-il65nd/index.html",
+    "static/css/main.bbf6c2fa.chunk.css.map": "https://goohayami.github.io/csb-il65nd/static/css/main.bbf6c2fa.chunk.css.map",
+    "static/js/2.f8f835a5.chunk.js.LICENSE.txt": "https://goohayami.github.io/csb-il65nd/static/js/2.f8f835a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a85722.js",
+    "static/js/2.f8f835a5.chunk.js",
+    "static/css/main.bbf6c2fa.chunk.css",
+    "static/js/main.7beb11c1.chunk.js"
+  ]
+}
